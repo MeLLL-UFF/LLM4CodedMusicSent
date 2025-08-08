@@ -1,0 +1,15 @@
+argparse
+numpy
+math
+music21
+pandas
+huggingface_hub
+transformers
+torch
+flash-attn
+pytest
+triton
+einops
+tiktoker
+openai
+scikit-learn
