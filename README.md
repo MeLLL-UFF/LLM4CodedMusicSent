@@ -12,7 +12,7 @@
 <h2 align="left"> MODELS </h2>
 <p style="display: inline-flex; align-items: center;">
   All models are available in  
-  <a href="https://huggingface.co/collections/melll-uff/" target="_blank">this Hugging Face collection</a>.
+  <a href="https://huggingface.co/collections/melll-uff/llm4codedmusicsent-6896678879beb32caac68f24" target="_blank">this Hugging Face collection</a>.
 </p>
 
 
